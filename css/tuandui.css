@@ -1,0 +1,163 @@
+.xulie{
+	width: 224px;
+}
+.tuandui{
+	width: 1000px;
+	height:472px;
+	/* background: pink; */
+	margin: 0 auto;
+}
+.tuandui_left{
+	position: relative;
+	width: 237px;
+	height: 472px;
+	background:url('../img/t1.png');
+	margin-right:19px;
+	float:left; 
+	
+}
+.tuandui_left2{
+	position: relative;
+	/* top: -227px; */
+}
+.tuandui ul{
+	float: left;
+}
+.tuandui ul li{
+	width: 238px;
+	height: 227px;
+	float:left; 
+	margin-right:10px;
+}
+.tuandui ul li img{
+	width: 152px;
+	height:227px;
+	float:left; 
+}
+.tuandui_right{
+	width: 86px;
+	height:227px;
+	border:2px solid #e3e3e3;
+	border-left:0;
+	float:right; 
+}
+.tr_wenzi1{
+	width: 86px;
+	height: 141px;
+	color: #000000;
+	padding-left:16px;
+	padding-top:40px;
+}
+.tr_wenzi1 h1{
+	font-family:San Francisco Display;
+	font-size:12px;
+	font-weight:bold;
+}
+.tr_wenzi1 h2{
+	font-size:20px;
+	font-weight:normal;
+}
+.l_line{
+	width:42px;
+	height: 1px;
+	background:#e3e3e3;
+	float: right;  
+}
+.s_line{
+	width:28px;
+	height:1px;
+	background:#000;
+	float: right;
+}
+.tr_wenzi2{
+	padding-left:16px;
+	padding-top:9px;
+	font-size:14px;
+	color: #939393;
+}
+.top_jianju{
+	float: left;
+    margin-top: 18px;
+}
+.tuandui2{
+	margin:81px auto;
+}
+.tuandui_left2{
+	margin-top: -227px;
+}
+.zj{
+	width: 1200px;
+	height: 127px;
+	margin:0 auto;
+	background:url('../img/zj1.png');
+	background-size:cover;
+	background-position:center;
+}
+.zj_img{
+	/* position: relative; */
+	width: 1200px;
+	height: 127px;
+	/* z-index:-2; */
+	background-color:rgba(24,79,107,0.6);
+}
+.rw_xiang{
+	width: 1005px;
+	/* height:346px; */
+	margin: 0 auto;
+	/* background:blue ; */
+}
+.rw_xiang ul li{
+	width:457px;
+	float: left;
+}
+.rw_xiang_tx{
+	width:131px;
+	height:131px;
+	border-radius: 50%; 
+	border:9px solid #e5e5e5;
+	margin-top:20px;
+	float: left;
+}
+.rw_xiang_tx img{
+	margin-top:-28px;
+}
+.rw_xiang ul li h1{
+	width: 290px;
+	height: 81px;
+	line-height:81px;
+	font-size:36px;
+	color:#767676;
+	font-weight:bold;
+	margin-left:170px;
+}
+.rw_xiang ul li p{
+	font-size:18px;
+	color:#767676;
+	margin-left:170px;
+}
+#rw_xiang2{
+	float: right;
+}
+.tuandui_left P{
+	font-size:14px;
+	font-family: [ReeJi];
+	font-weight:bold;
+	float: left;
+	color: #fff;
+	transform:rotate(90deg);
+	position: absolute;
+	left: -76px;
+    bottom: 117px;
+}
+.tuandui_left span{
+	/* width:24px;
+	height: 143px; */
+	font-size:24px;
+	color: #fff;
+	font-weight:bold; 
+	position: absolute;
+	left: 45px;
+    bottom: 22px;
+}
+
+

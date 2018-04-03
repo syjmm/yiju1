@@ -1,0 +1,106 @@
+.show{
+	width: 1200px;
+	margin: 0 auto;
+	/* background: pink; */
+}
+.show ul li{
+	position: relative;
+	width: 262px;
+	height: 381px;
+	border:2px solid #d7d7d7;
+	float: left;
+	margin-right:42px;
+	margin-bottom:31px;
+}
+.show ul li img{
+	width: 269px;
+	height: 355px;
+	margin-left: 10px;
+	margin-top: 10px;
+	float: left;
+}
+.show_line{
+	position: absolute;
+	height:356px;
+	width:2px;
+	background:#f5c813;
+	right:-2px;
+	top:10px;
+}
+.zhe{
+	position:absolute;
+	width: 269px;
+	height: 355px;
+	margin-left: 10px;
+	margin-top: 10px;
+	background:#184559;
+	z-index: 1; 
+	padding-left:24px;
+	padding-top:40px;
+	opacity:0;
+}
+.zhe h1{
+	font-size:22px;
+	color: #fff;
+}
+.zhe h2{
+	font-family: Arial;
+	font-size:24px;
+	color: #fff;
+	font-weight:bold;
+}
+.zhe h3{
+	width: 23px;
+	height:23px;
+	border-radius:50%;
+	background:#f5c813;
+	color: #000; 
+	text-align:center;
+	line-height:21px; 
+	margin-top:25px;
+}
+.zhe:hover{
+	opacity:0.8;
+}
+#shou_clear{
+	margin-right:0;
+}
+.xulie{
+	width:370px;
+	/* height: 100px; */
+	/* background:yellow;  */
+	margin:49px auto 0;
+}
+.xulie_left{
+	font-size:30px;
+	color: #000;
+	float: left;
+	margin-top:-9px;
+}
+.xulie_right{
+	font-size:30px;
+	color: #000;
+	float: right;
+	margin-top:-12px;
+}
+.xulie_yuan{
+	width: 24px;
+	height: 24px;
+	border-radius:50%;
+	background:#e5e5e5;
+	color:#194f6b ; 
+	font-size:12px;
+	text-align:center;
+	line-height: 24px;
+	margin-left:26px;
+	float: left;
+}
+.xulie_yuan1{
+	background:#fff;
+}
+.xulie_yuan:hover{
+	color:#fff;
+	background:#194f6b;
+	cursor:pointer; 
+
+}
